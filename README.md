@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nazrul Islam
 - 👀 I’m interested in wed devlopment , 
-- 🌱 I’m currently learning nodejs and react
+- 🌱 I’m currently learning python and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me claim.awds1@gmail.com
 
